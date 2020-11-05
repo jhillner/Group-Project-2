@@ -6,7 +6,8 @@ Team Postgres ETL of Pokemon Data
 •	Source : https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420
 
 ### Extract Pokemon votes and rank
-•	Source : https://pastebin.com/LvhaTx7w / https://www.reddit.com/r/pokemon/comments/c0w4s0/favourite_pok%C3%A9mon_survey_results/
+•	Source : https://pastebin.com/LvhaTx7w / 
+- https://www.reddit.com/r/pokemon/comments/c0w4s0/favourite_pok%C3%A9mon_survey_results/
 
 ### Extract Pokemon card rarity and pricing
 •	Source https://shop.tcgplayer.com/price-guide/pokemon/base-set
