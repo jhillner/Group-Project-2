@@ -15,14 +15,30 @@ Team Postgres ETL of Pokemon Data
 
 
 ### Transform Pokedex DataFrame
+
+![pokedex](https://user-images.githubusercontent.com/69124282/98305949-ca04dc80-1f90-11eb-8887-6d8270ef2e82.jpg)
+
 ### Transform Popularity Rank
+
+![popularity](https://user-images.githubusercontent.com/69124282/98305938-c709ec00-1f90-11eb-85cf-5fdcbf55dc5a.jpg)
+
 ### Transform pokedex and rank
+
+![pokedex_popularity](https://user-images.githubusercontent.com/69124282/98305939-c709ec00-1f90-11eb-89d5-efe6ce435876.jpg)
+
 ### Transform Pokemon Card rarity & Pricing DataFrame
+
+![rarity_pricing](https://user-images.githubusercontent.com/69124282/98305940-c709ec00-1f90-11eb-95f4-4d0b0f67071a.jpg)
+
+![rarity_pricing_pokedex](https://user-images.githubusercontent.com/69124282/98305941-c709ec00-1f90-11eb-864b-39c852dba3a7.jpg)
 
 
 
 
 ### Load DataFrames into database
+
+![pgadmin](https://user-images.githubusercontent.com/69124282/98305942-c7a28280-1f90-11eb-96d8-2aa964665807.jpg)
+
 -- Create Tables
 CREATE TABLE stats1 (
   "Pokemon" TEXT PRIMARY KEY,
